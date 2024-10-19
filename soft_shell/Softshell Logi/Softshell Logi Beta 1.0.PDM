@@ -1,0 +1,137 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\CRACK\Softshell Logi Beta 1.0\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\AMCLabel.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ConfigIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\DesktopIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\FavoritesIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\FindIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\MydocIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ProgramIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RecycledEmptyIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RecycledFullIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RunIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ShutdownIcon.ico=
+C:\CRACK\Softshell Logi Beta 1.0\Icons\swiss.ICO=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\CRACK\Softshell Logi Beta 1.0\Softshell Logi Beta 1.0.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\AMCLabel.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ConfigIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\DesktopIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\FavoritesIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\FindIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\MydocIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ProgramIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RecycledEmptyIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RecycledFullIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RunIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ShutdownIcon.ico=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Icons\swiss.ICO=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\CRACK\Softshell Logi Beta 1.0\Softshell Logi Beta 1.0.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\AMCLabel.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ConfigIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\DesktopIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\FavoritesIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\FindIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\MydocIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ProgramIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RecycledEmptyIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RecycledFullIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RunIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ShutdownIcon.ico=$(AppPath)
+C:\CRACK\Softshell Logi Beta 1.0\Icons\swiss.ICO=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\CRACK\Softshell Logi Beta 1.0\Softshell Logi Beta 1.0.exe=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ConfigIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\DesktopIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\FavoritesIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\FindIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\MydocIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ProgramIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RecycledEmptyIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RecycledFullIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\RunIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\ShutdownIcon.ico=No
+C:\CRACK\Softshell Logi Beta 1.0\Icons\swiss.ICO=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Softshell Logi Beta 1.0
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Softshell Logi Beta 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Softshell Logi Beta 1.0]
+Icon1="Softshell Logi Beta 1.0.exe"
+Title1=Softshell Logi Beta 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\CRACK\Softshell Logi Beta 1.0\Package
+ProjectFolder=C:\CRACK\Softshell Logi Beta 1.0
+ServerSideCab=
+File1=C:\CRACK\Softshell Logi Beta 1.0\Package\setup.exe
+File2=C:\CRACK\Softshell Logi Beta 1.0\Package\Setup.Lst
+File3=C:\CRACK\Softshell Logi Beta 1.0\Package\Softshell Logi Beta 1.0.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

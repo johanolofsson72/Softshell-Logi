@@ -1,0 +1,15 @@
+frmTaskbar = 88, 88, 615, 468, , 66, 66, 593, 446, C
+modDevice1 = 176, 176, 703, 556, Z
+frmSubmenu = 44, 44, 536, 424, , 132, 132, 659, 512, C
+modStartUp = 154, 154, 681, 534, 
+modStartmenyDelay = 0, 0, 524, 380, 
+modShellExec = 110, 110, 634, 490, 
+frmMenuSystem = 44, 44, 722, 449, , 66, 66, 590, 446, C
+modGetSpecialFolderLocation = 22, 22, 700, 427, 
+modSound = 44, 44, 468, 492, 
+frmAutoExitWindows = 220, 220, 685, 668, , 0, 0, 442, 448, C
+modFormEffects = 132, 132, 576, 580, 
+frmControl = 44, 44, 509, 492, , 110, 110, 619, 500, C
+frmSLControl = 154, 154, 663, 545, , 110, 110, 619, 501, C
+modErrFix = 110, 110, 619, 501, 
+frmSwap = 154, 154, 631, 557, , 110, 110, 587, 513, C
