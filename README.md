@@ -41,12 +41,47 @@ soft_shell/
   This First/
     AMCLabel.ocx                  third-party control
     Read me.txt                   install note
-ryska softshell logi.pdf          Russian write-up (Planet Source Code listing)
-*.bmp / *.gif                     screenshots and the contest-winner image
-vb_soft_shell.htm                 archived listing page
+ryska softshell logi.pdf          Russian write-up (Ishodnik.Ru listing, PDF)
+SoftshellLogi1.2ContestWinner.bmp Planet Source Code listing for Beta 1.2, with the CONTEST WINNER badge
+Softshell at Shell City.bmp       shellcity.net "Daily Update", 25 September 2000
+softshelllogi.bmp                 Beta 1.0 running as the system shell, "(c) Softworld (tm)" in every menu
+vb_soft_shell.htm                 archived Ishodnik.Ru listing (Russian)
 ```
 
-`SoftshellLogi1.2ContestWinner.bmp` and `vb_soft_shell.htm` indicate this was submitted to Planet Source Code (the `.htm` is the Russian-language listing).
+`SoftshellLogi1.2ContestWinner.bmp` and `vb_soft_shell.htm` document where this was published and how it was received — see **Publication and reception** below.
+
+## Publication and reception
+
+Softshell Logi was released publicly in 2000, with full source, and was picked up in at least three places. The screenshots and the archived page in this repo are the surviving evidence.
+
+### Planet Source Code — two separate entries
+
+| | Beta 1.2 | Beta 1.3 |
+|---|---|---|
+| Submitted | **2000-08-01, 9:23:47 PM** | **2000-09-03, 6:39:44 PM** |
+| Code ID | *(not recorded)* | **11233** |
+| Level | Advanced | Advanced |
+| User rating | rated by **19 users** | 4 of 5, rated by **15 users** |
+| Accesses / downloads | **1,236** *(as shown in the contemporaneous screenshot)* | **18,830** *(as listed later)* |
+| Award | **CONTEST WINNER** | — |
+
+`SoftshellLogi1.2ContestWinner.bmp` is a screenshot of the **Beta 1.2** listing and carries the laurel "CONTEST WINNER" badge. Note that the award sits on the 1.2 entry, not on 1.3 — anyone checking code ID 11233 is looking at 1.3 and will not find it. The same listing displays a Brainbench "Certified Professional — Visual Basic 6.0 Programmer" badge for the author.
+
+The two access counts are not in conflict: they are different entries, counted at different times, roughly a quarter-century apart.
+
+### Shell Extension City (shellcity.net)
+
+`Softshell at Shell City.bmp` is a screenshot of that site's **DAILY UPDATE for September 25, 2000**, where Softshell is the lead item, above `MMDESK` and `ONE BUTTON`. The write-up is the author's own description, reproduced in the first person, and the site pointed readers to Planet Source Code for the free download rather than hosting it.
+
+### Исходник.Ру / Ishodnik.Ru (Russia)
+
+`vb_soft_shell.htm` is **not** a Planet Source Code page. It is a listing from **Исходник.Ру — "Сайт профессионального программиста"** ("Source.Ru — the professional programmer's site"), a Russian source-code library of the era covering C/C++, Pascal, Delphi, Kylix, Visual Basic, Assembler, WAP and PalmOS. `ryska softshell logi.pdf` is the same listing as a PDF.
+
+The page credits **"Автор: Johan Olofsson"** and links to the author's own site, `softworlddata.com`. It describes the program as a movable Windows shell that reproduces the taskbar and adds cascading menus with Linux-style on-the-fly menu additions and scrolling, and singles out for praise that it ships with complete source: *"А самый главный плюс этой проги, то что она с полным исходным кодом"* — "the main advantage of this program is that it comes with full source code."
+
+### Branding
+
+The running program renders **© Softworld ™** in the footer of every menu panel (visible in `softshelllogi.bmp`, which shows Beta 1.0 running as the actual system shell). The `.vbp` carries `VersionCompanyName = "softworld"`, and Ishodnik.Ru links the author to `softworlddata.com`.
 
 ## Getting started
 
